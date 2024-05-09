@@ -1,0 +1,13 @@
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\bin\Debug\sessionsploit.exe.config
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\bin\Debug\sessionsploit.exe
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\bin\Debug\sessionsploit.pdb
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionsploit.csproj.AssemblyReference.cache
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionhijack.Form1.resources
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionhijack.Infotab.resources
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionhijack.Password.resources
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionhijack.Processes.resources
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionhijack.Properties.Resources.resources
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionsploit.csproj.GenerateResource.cache
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionsploit.csproj.CoreCompileInputs.cache
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionsploit.exe
+C:\Users\mrKre\Source\Repos\sessionsploit-src\sessionsploit-src\obj\Debug\sessionsploit.pdb
